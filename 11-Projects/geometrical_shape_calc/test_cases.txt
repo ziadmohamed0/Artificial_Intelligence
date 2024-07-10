@@ -1,0 +1,201 @@
+
+********** Welcome in My Calculator **********
+
+=> Select which eometrical shape you need : 
+--------------------------------------------
+1-Rectangular
+2-Circle
+3-Traingle
+4-Square
+
+Enter choise : 1
+
+=> Select Area or Perimeter : 
+------------------------------
+1-Area
+2-Perimeter
+
+Enter choise : 1
+
+->Enter Width  : 2
+->Enter length : 2
+Value = [4]
+==============================================================
+********** Welcome in My Calculator **********
+
+=> Select which eometrical shape you need : 
+--------------------------------------------
+1-Rectangular
+2-Circle
+3-Traingle
+4-Square
+
+Enter choise : 1
+
+=> Select Area or Perimeter : 
+------------------------------
+1-Area
+2-Perimeter
+
+Enter choise : 2
+
+->Enter Width  : 2
+->Enter length : 2
+
+=> Value = [8]
+==============================================================
+********** Welcome in My Calculator **********
+
+=> Select which eometrical shape you need : 
+--------------------------------------------
+1-Rectangular
+2-Circle
+3-Traingle
+4-Square
+
+Enter choise : 2
+
+=> Select Area or Perimeter : 
+------------------------------
+1-Area
+2-Perimeter
+
+Enter choise : 1
+
+->Enter Radius  : 2
+
+=> Value = [12.56]
+==============================================================
+********** Welcome in My Calculator **********
+
+=> Select which eometrical shape you need : 
+--------------------------------------------
+1-Rectangular
+2-Circle
+3-Traingle
+4-Square
+
+Enter choise : 2
+
+=> Select Area or Perimeter : 
+------------------------------
+1-Area
+2-Perimeter
+
+Enter choise : 2
+
+->Enter Radius  : 2
+
+=> Value = [12.56]
+==============================================================
+********** Welcome in My Calculator **********
+
+=> Select which eometrical shape you need : 
+--------------------------------------------
+1-Rectangular
+2-Circle
+3-Traingle
+4-Square
+
+Enter choise : 4
+
+=> Select Area or Perimeter : 
+------------------------------
+1-Area
+2-Perimeter
+
+Enter choise : 1
+
+->Enter Side  : 2
+
+=> Value = [4]
+==============================================================
+********** Welcome in My Calculator **********
+
+=> Select which eometrical shape you need : 
+--------------------------------------------
+1-Rectangular
+2-Circle
+3-Traingle
+4-Square
+
+Enter choise : 4
+
+=> Select Area or Perimeter : 
+------------------------------
+1-Area
+2-Perimeter
+
+Enter choise : 2
+
+->Enter Side  : 2
+
+=> Value = [8]
+==============================================================
+********** Welcome in My Calculator **********
+
+=> Select which eometrical shape you need : 
+--------------------------------------------
+1-Rectangular
+2-Circle
+3-Traingle
+4-Square
+
+Enter choise : 3
+
+=> Select Area or Perimeter : 
+------------------------------
+1-Area
+2-Perimeter
+
+Enter choise : 1
+
+->Enter Base  : 2
+->Enter Height  : 2
+
+=> Value = [2.0]
+==============================================================
+********** Welcome in My Calculator **********
+
+=> Select which eometrical shape you need : 
+--------------------------------------------
+1-Rectangular
+2-Circle
+3-Traingle
+4-Square
+
+Enter choise : 3
+
+=> Select Area or Perimeter : 
+------------------------------
+1-Area
+2-Perimeter
+
+Enter choise : 2
+
+->Enter Side 1 : 1
+->Enter Side 2 : 2
+->Enter Side 3 : 3
+
+=> Value = [6]
+==============================================================
+********** Welcome in My Calculator **********
+
+=> Select which eometrical shape you need : 
+--------------------------------------------
+1-Rectangular
+2-Circle
+3-Traingle
+4-Square
+
+Enter choise : 0
+
+=> Select Area or Perimeter : 
+------------------------------
+1-Area
+2-Perimeter
+
+Enter choise : 0
+
+=> Error!!
+
