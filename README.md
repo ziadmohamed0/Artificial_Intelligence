@@ -1,4 +1,4 @@
-# Artificial Intelligence Project
+# Artificial Intelligence Repo
 
 ## Overview
 This repository contains an Artificial Intelligence project focused on [briefly describe the main focus of the project, e.g., machine learning, deep learning, natural language processing, etc.]. The project aims to [mention the main goal or objectives of the project, e.g., build a predictive model, create an AI-based application, etc.].
